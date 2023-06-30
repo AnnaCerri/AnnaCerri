@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @AnnaCerri
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+- 👋 Ola, eu sou @AnnaCerri
+- 👀 Sou intressada em esportes  
+- 🌱 Atualmente estou aprendendo a fazer sites 
+- 💞️ Procuro colaborar com todos 
+- 📫 Chegue até mim por mensagem 
 <!---
-AnnaCerri/AnnaCerri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+AnnaCerri/AnnaCerri é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
+Você pode clicar no link Visualizar para ver suas alterações.
 --->
